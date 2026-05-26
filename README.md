@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Catalina Asprilla Lozano 👋
 
-<!--
-**catalinaurrutia18-sys/Catalinaurrutia18-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Software  
+💼 Tecnóloga en Gestión Administrativa  
+💄 Cosmetóloga profesional  
 
-Here are some ideas to get you started:
+Soy una persona apasionada por el aprendizaje, la tecnología y el crecimiento profesional. Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo de software, explorando nuevas herramientas y creando proyectos que me permitan crecer en el mundo tecnológico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+- 💻 Aprendiendo programación y desarrollo de aplicaciones
+- 🌱 Interesada en la tecnología y la innovación
+- 📚 En constante aprendizaje
+- ✨ Experiencia en el área administrativa y estética profesional
+- 🇨🇴 Colombia
+
+## Objetivos
+Mi objetivo es combinar mis conocimientos administrativos, de atención al cliente y tecnología para desarrollar soluciones útiles, modernas y creativas.
+
+## Tecnologías y herramientas
+- Git & GitHub
+- HTML y CSS
+- Bases de datos
+- Lógica de programación
+
+## Contacto
+Catalinaurrutia18-sys
